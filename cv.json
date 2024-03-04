@@ -1,66 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Aerley Keller Lopez",
+    "label": "Web FrontEnd Developed",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "lopezkeller65@gmail.com",
+    "phone": "+504 9800-7330",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "2 años de experiencia como Desarrollador Web Freelancer, crando productos que se adaptan a las necesidades de mis clientes ofreciendo servios de desarrollo de Sitios Web, Aplicaiones Android y IOS, Aplicaiones para Windows implementando buenas Practicas de Desarrollo UI/UX",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "Chamelecon, S.P.S",
+      "postalCode": "21101",
+      "city": "San Pedro Sula",
+      "countryCode": "HN",
+      "region": "Honduras"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "aerley-keller-lopez-ramos",
+        "url": "https://www.linkedin.com/in/aerley-keller-lopez-ramos-00585228b/"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/Keller65"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "IMRA",
+      "position": "Plataforma Educativa",
+      "url": "https://imra.netlify.app/",
+      "startDate": "2023-05-05",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrolle una Plataforma Educativa para mi Instituto, con Firebase y Cursos Gratis de Programacion e Informatica, con autenticacion con Google o Correo Electronico actualmente en Derrollo",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Curso",
+      "position": "mentor en curso office 365",
+      "url": "https://cctch.netlify.app/pages/carreras",
+      "startDate": "2023-10-22",
+      "endDate": null,
+      "summary": "Ayude como mentor a impartir un curso de office 365 a estudiantes del Intituto Tecnico Chamelecon durante el Perido de mi Practica Profesional",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +63,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Instituto Gub. Dr. Modesto Rodas Alvarado",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Tecnico Profesional en Informatica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2020-12-31",
+    "endDate": "2023-12-31",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -111,77 +96,63 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Principiate",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Principiate",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Principiate",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
+      "name": "React",
+      "level": "Principiate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Principiate",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -210,66 +181,55 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Chat IMRA",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Plataforma de Chat Online en Tiempo Real con envio de imagenes (Requiere autenticacion con Google)",
       "highlights": [
-        "Elige tu propia aventura",
+        "Firebase",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://imra.netlify.app/chat/chat"
     },
     {
-      "name": "AdventJS",
+      "name": "Face Detector Model",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Presentacion del Modelo de Reconocimento Facial Haciendo uso de una Red Nuronal Convolucional, entrenada con mas de 300,000 imagenes de estudiantes del IMRA, desarrollada con python",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "correo : Lopezkeller65@gmail.com",
+        "contraseña : infoaerley2023"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://imraface.000webhostapp.com/"
     },
     {
-      "name": "Codember",
+      "name": "EPY",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Sitio Web de Cosmeticos y Maquillaje",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "aplicacion web",
+        "En desarrollo"
       ],
-      "url": "https://codember.dev"
+      "url": "https://makeupmlr.netlify.app/"
     },
     {
-      "name": "codi.link",
+      "name": "Tienda Wendy",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Tienda en linea con Implementacion Real de Pagos con Paypal",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Paypal",
+        "Desarrollado como tarea"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://tiendawendy.netlify.app/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Buzzer App",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Aplicacion Android de Baloncesto con registro de partidas en el almacenamiento local",
       "highlights": [
         "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Android",
+        "Uso personal con amigos"    
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.mediafire.com/file/rlwab52v6zm552z/Buzzer.apk/file"
     }
   ]
 }
