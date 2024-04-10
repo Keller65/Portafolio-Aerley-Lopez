@@ -12,7 +12,7 @@
       "postalCode": "21101",
       "city": "San Pedro Sula",
       "countryCode": "HN",
-      "region": "Honduras"
+      "region": "Cortes"
     },
     "profiles": [
       {
@@ -22,30 +22,18 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "Keller65",
         "url": "https://github.com/Keller65"
       }
     ]
   },
   "work": [
     {
-      "name": "IMRA",
-      "position": "Plataforma Educativa",
-      "url": "https://imra.netlify.app/",
-      "startDate": "2023-05-05",
+      "name": "Freelancer",
+      "position": "Desarrollador Freelancer Front End",
+      "startDate": "2024-05-05",
       "endDate": null,
-      "summary": "Desarrolle una Plataforma Educativa para mi Instituto, con Firebase y Cursos Gratis de Programacion e Informatica, con autenticacion con Google o Correo Electronico actualmente en Derrollo",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Curso",
-      "position": "mentor en curso office 365",
-      "url": "https://cctch.netlify.app/pages/carreras",
-      "startDate": "2023-10-22",
-      "endDate": null,
-      "summary": "Ayude como mentor a impartir un curso de office 365 a estudiantes del Intituto Tecnico Chamelecon durante el Perido de mi Practica Profesional",
+      "summary": "2 años de experiencia como Desarrollador freelancer, creando sitios web estticos y dinamicos, empleando tecnologias como HTML, CSS, JavaScript, React JS y React Native.",
       "highlights": [
         "Started the company"
       ]
@@ -63,9 +51,9 @@
     ]
   }],
   "education": [{
-    "institution": "Instituto Gub. Dr. Modesto Rodas Alvarado",
+    "institution": "Tecnico Profesional en Informatica",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Tecnico Profesional en Informatica",
+    "area": "Instituto Gub Dr. Modesto Rodas Alvarado",
     "studyType": "Bachelor",
     "startDate": "2020-12-31",
     "endDate": "2023-12-31",
@@ -162,10 +150,6 @@
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
     }
   ],
   "interests": [{
@@ -181,24 +165,24 @@
   }],
   "projects": [
     {
-      "name": "Chat IMRA",
+      "name": "Diseños UI/UX",
       "isActive": true,
-      "description": "Plataforma de Chat Online en Tiempo Real con envio de imagenes (Requiere autenticacion con Google)",
+      "description": "Diseño UI/UX de sitio de recursos de desarollo web",
       "highlights": [
-        "Firebase",
-        "En desarrollo"
+        "Figma",
+        "UI/UX"
       ],
-      "url": "https://imra.netlify.app/chat/chat"
+      "url": "https://www.figma.com/file/6qKEdQUei600FGvtGwr92r/CV-Aerley?type=design&node-id=0%3A1&mode=design&t=diJbqxxyP9V0XrIH-1"
     },
     {
-      "name": "Face Detector Model",
+      "name": "Articulo de SEO",
       "isActive": true,
-      "description": "Presentacion del Modelo de Reconocimento Facial Haciendo uso de una Red Nuronal Convolucional, entrenada con mas de 300,000 imagenes de estudiantes del IMRA, desarrollada con python",
+      "description": "articulo sobre como mejorar el SEO en sitios web, optimizar imagenes, fuentes, y mejorar el rendimiendo de tu sitio web",
       "highlights": [
-        "correo : Lopezkeller65@gmail.com",
-        "contraseña : infoaerley2023"
+        "SEO",
+        "Performance"
       ],
-      "url": "https://imraface.000webhostapp.com/"
+      "url": "https://palm-den-c92.notion.site/Tips-para-Mejorar-el-SEO-0913a6ae85df4a25834cbe26bf127708"
     },
     {
       "name": "EPY",
@@ -206,9 +190,9 @@
       "description": "Sitio Web de Cosmeticos y Maquillaje",
       "highlights": [
         "aplicacion web",
-        "En desarrollo"
+        "React JS"
       ],
-      "url": "https://makeupmlr.netlify.app/"
+      "url": "https://epyweb.netlify.app"
     },
     {
       "name": "Tienda Wendy",
