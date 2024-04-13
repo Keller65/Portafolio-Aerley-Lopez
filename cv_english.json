@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "lopezkeller65@gmail.com",
     "phone": "+504 9800-7330",
-    "url": "https://midu.dev",
+    "url": "https://aerley-keller-lopez-portafolio.netlify.app/",
     "summary": "2 años de experiencia como Desarrollador Web Freelancer, crando productos que se adaptan a las necesidades de mis clientes ofreciendo servios de desarrollo de Sitios Web, Aplicaiones Android y IOS, Aplicaiones para Windows implementando buenas Practicas de Desarrollo UI/UX",
     "location": {
       "address": "Chamelecon, S.P.S",
@@ -167,10 +167,11 @@
     {
       "name": "Diseños UI/UX",
       "isActive": true,
-      "description": "Diseño UI/UX de sitio de recursos de desarollo web",
+      "description": "Diseño UI/UX de sitio de recursos de desarrollo web",
       "highlights": [
         "Figma",
-        "UI/UX"
+        "UI",
+        "UX"
       ],
       "url": "https://www.figma.com/file/6qKEdQUei600FGvtGwr92r/CV-Aerley?type=design&node-id=0%3A1&mode=design&t=diJbqxxyP9V0XrIH-1"
     },
@@ -190,19 +191,21 @@
       "description": "Sitio Web de Cosmeticos y Maquillaje",
       "highlights": [
         "aplicacion web",
-        "React JS"
+        "React JS",
+        "Firebase"
       ],
       "url": "https://epyweb.netlify.app"
     },
     {
-      "name": "Tienda Wendy",
+      "name": "Kiwi Chat",
       "isActive": true,
-      "description": "Tienda en linea con Implementacion Real de Pagos con Paypal",
+      "description": "aplicacion web de chat en tiempo real con base de datos nosql y autenticacion con google",
       "highlights": [
-        "Paypal",
-        "Desarrollado como tarea"
+        "Firebase",
+        "Google",
+        "React JS"
       ],
-      "url": "https://tiendawendy.netlify.app/"
+      "url": "https://kiwi-chat.vercel.app/"
     },
     {
       "name": "Buzzer App",
@@ -211,6 +214,7 @@
       "highlights": [
         "100% gratuito",
         "Android",
+        "React JS",
         "Uso personal con amigos"    
       ],
       "url": "https://www.mediafire.com/file/rlwab52v6zm552z/Buzzer.apk/file"
