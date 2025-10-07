@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Aerley Keller Lopez",
-    "label": "Web FrontEnd Developed",
+    "name": "Aerley Keller Lopez Ramos",
+    "label": "Web & Mobile FrontEnd Developer",
     "image": "/me.webp",
     "email": "lopezkeller65@gmail.com",
     "phone": "+504 9375-4701",
@@ -31,7 +31,7 @@
     {
       "name": "Freelancer",
       "position": "Desarrollador Freelancer Front End",
-      "startDate": "2024-05-05",
+      "startDate": "2023-05-05",
       "endDate": null,
       "summary": "2 años de experiencia como Desarrollador freelancer, creando sitios web estticos y dinamicos, empleando tecnologias como HTML, CSS, JavaScript, React JS y React Native.",
       "highlights": [
@@ -49,20 +49,6 @@
       "summary": "Description…",
       "highlights": [
         "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Tecnico Profesional en Informatica",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Instituto Gub Dr. Modesto Rodas Alvarado",
-      "studyType": "Bachelor",
-      "startDate": "2020-12-31",
-      "endDate": "2023-12-31",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
       ]
     }
   ],

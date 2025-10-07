@@ -79,9 +79,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
         }
       </footer>
     </div>
-    <figure>
-      <img src={image} alt={name} />
-    </figure>
   </div>
 </Section>
 
@@ -99,6 +96,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
     flex-direction: column;
     gap: 0.5rem;
     padding-right: 32px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
   }
 
   h1 {
