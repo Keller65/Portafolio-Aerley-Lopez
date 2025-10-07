@@ -4,7 +4,7 @@
     "label": "Web FrontEnd Developed",
     "image": "/me.webp",
     "email": "lopezkeller65@gmail.com",
-    "phone": "+504 9800-7330",
+    "phone": "+504 9375-4701",
     "url": "https://aerley-keller-lopez-portafolio.netlify.app/",
     "summary": "2 años de experiencia como Desarrollador Web Freelancer, crando productos que se adaptan a las necesidades de mis clientes ofreciendo servios de desarrollo de Sitios Web, Aplicaiones Android y IOS, Aplicaiones para Windows implementando buenas Practicas de Desarrollo UI/UX",
     "location": {
@@ -39,110 +39,143 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Tecnico Profesional en Informatica",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Instituto Gub Dr. Modesto Rodas Alvarado",
-    "studyType": "Bachelor",
-    "startDate": "2020-12-31",
-    "endDate": "2023-12-31",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnico Profesional en Informatica",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Instituto Gub Dr. Modesto Rodas Alvarado",
+      "studyType": "Bachelor",
+      "startDate": "2020-12-31",
+      "endDate": "2023-12-31",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "MySQL",
       "level": "Principiate",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Principiate",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Principiate",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "React",
       "level": "Principiate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
       "name": "React",
       "level": "Principiate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -152,28 +185,61 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "Diseños UI/UX",
+      "name": "Ecommerce Online Tecpoint.ws",
       "isActive": true,
-      "description": "Diseño UI/UX de sitio de recursos de desarrollo web",
+      "description": "Desarrollé la tienda en línea tecpoint.ws para Inversiones Eli Ezer, una empresa de venta de accesorios tecnológicos al por mayor y detalle a nivel nacional.",
       "highlights": [
-        "Figma",
-        "UI",
-        "UX"
+        "Reduje costos operativos de $400 a $0.70 anuales",
+        "Plataforma eficiente y escalable",
+        "Optimización de velocidad y experiencia de usuario",
+        "UI/UX renovada",
+        "Firebase para gestión de productos y pedidos"
       ],
-      "url": "https://www.figma.com/file/6qKEdQUei600FGvtGwr92r/CV-Aerley?type=design&node-id=0%3A1&mode=design&t=diJbqxxyP9V0XrIH-1"
+      "url": "https://tecpoint.ws"
+    },
+    {
+      "name": "Grupo Alfa & Omega",
+      "isActive": true,
+      "description": "Aplicación móvil para Android y iOS integrada con SAP Business One, que permite la gestión de cobros, pedidos, creación de rutas, administración de clientes y más. Funciona como un ERP móvil para optimizar procesos comerciales y operativos.",
+      "highlights": [
+        "Integración en tiempo real con SAP B1",
+        "Gestión de cobros y pedidos desde la app",
+        "Creación y administración de rutas comerciales",
+        "Gestión eficiente de clientes y cartera",
+        "Optimización de procesos operativos en campo",
+        "Android y iOS"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Impresión de Etiquetas para Supermercado",
+      "isActive": true,
+      "description": "Aplicación Android para impresión de etiquetas de productos en supermercados, desarrollada para Supermercados la Roca. Permite la gestión de cantidad de etiquetas a imprimir y selección de productos. Facilita la administración y actualización de precios y códigos de barras.",
+      "highlights": [
+        "Gestión de cantidad de etiquetas a imprimir",
+        "Selección de productos desde la app",
+        "Impresión directa desde Android",
+        "Actualización de precios y códigos de barras",
+        "Optimización de procesos de etiquetado en supermercados"
+      ],
+      "url": ""
     },
     {
       "name": "Articulo de SEO",
@@ -186,17 +252,6 @@
       "url": "https://palm-den-c92.notion.site/Tips-para-Mejorar-el-SEO-0913a6ae85df4a25834cbe26bf127708"
     },
     {
-      "name": "EPY",
-      "isActive": true,
-      "description": "Sitio Web de Cosmeticos y Maquillaje",
-      "highlights": [
-        "aplicacion web",
-        "React JS",
-        "Firebase"
-      ],
-      "url": "https://epyweb.netlify.app"
-    },
-    {
       "name": "Kiwi Chat",
       "isActive": true,
       "description": "aplicacion web de chat en tiempo real con base de datos nosql y autenticacion con google",
@@ -206,18 +261,6 @@
         "React JS"
       ],
       "url": "https://kiwi-chat.vercel.app/"
-    },
-    {
-      "name": "Buzzer App",
-      "isActive": true,
-      "description": "Aplicacion Android de Baloncesto con registro de partidas en el almacenamiento local",
-      "highlights": [
-        "100% gratuito",
-        "Android",
-        "React JS",
-        "Uso personal con amigos"    
-      ],
-      "url": "https://www.mediafire.com/file/rlwab52v6zm552z/Buzzer.apk/file"
     }
   ]
 }
